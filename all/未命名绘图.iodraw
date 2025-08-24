@@ -17,7 +17,7 @@
           <mxGeometry x="120" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="llVW4fu3WbpriYopU23y-3" value="判断缓存是否命中" style="rhombus;whiteSpace=wrap;html=1;fontSize=17;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="140" y="350" width="80" height="60" as="geometry" />
+          <mxGeometry x="110" y="320" width="140" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
